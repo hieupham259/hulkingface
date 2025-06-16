@@ -1,0 +1,1 @@
+https://huggingface.co/learn/llm-course/vi/chapter1/1?fw=pt
